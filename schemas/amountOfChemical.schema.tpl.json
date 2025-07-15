@@ -1,6 +1,7 @@
 {
   "_type": "chemicals:AmountOfChemical",
   "required": [
+    "amount",
     "chemicalProduct"
   ],
   "properties": {

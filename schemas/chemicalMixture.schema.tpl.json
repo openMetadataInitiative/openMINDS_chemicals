@@ -1,5 +1,8 @@
 {
   "_type": "chemicals:ChemicalMixture",
+  "_categories": [
+    "chemicalProduct"
+  ],
   "required": [
     "hasPart",
     "type"

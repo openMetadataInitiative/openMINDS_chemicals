@@ -11,7 +11,7 @@
 [![GitHub][license-shield]][license-url]
 [![GitHub contributors][contributors-shield]][contributors-url]
 
-The **openMINDS_chemicals** repository hosts one of the schema modules of the **openMINDS metadata framework**. It defines modular metadata schemas for describing chemical substances and mixtures.
+The **openMINDS_chemicals** repository hosts one of the schema modules of the **openMINDS metadata framework** that build the overall openMINDS metadata model. It defines modular metadata schemas for in-depth descriptions of chemical substances and mixtures.
 
 To generally learn more about the openMINDS metadata framework please go to :arrow_right: [**ReadTheDocs**][docu-url].  
 There you can also explore directly the :arrow_right: [**openMINDS_chemicals schema specifications**][docu-chemicals-url].
